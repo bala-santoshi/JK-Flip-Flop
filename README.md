@@ -1,4 +1,4 @@
-# JK Flipflop using Verilog
+# JK FlipFlop using Verilog
 
 
 
@@ -11,7 +11,7 @@ Implemented and stimulated a JK flip flop using Verilog HDL in Modelsim.
 
 ## Concepts used
 - Sequential logic
-- Flio Flop operation
+- Flip Flop operation
 - Toggle functionality
 
   
